@@ -1,0 +1,3 @@
+sample,error_type,n,total_min,total_median,total_max,total_ge200_n,note
+mapped Shandong hold-out group,low-zone false negatives,19,161.0,171.0,195.0,0,Aggregate error-profile summary only; individual-level records are not written by default.
+mapped Shandong hold-out group,high-zone false positives,2,159.0,159.0,159.0,0,Aggregate error-profile summary only; individual-level records are not written by default.

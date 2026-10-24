@@ -1,0 +1,13 @@
+pattern,sample,n,percent,primary_analysis_handling,sensitivity_analysis_handling,deployment_recommendation
+all-same response pattern,Overall,759,5.281469626330805,Retained in primary analysis,Excluded in response-quality sensitivity,Quality review or retest before provisionally low-burden routing
+all-same response pattern,mapped Hunan code group,276,2.548241159634383,Retained in primary analysis,Excluded in response-quality sensitivity,Quality review or retest before provisionally low-burden routing
+all-same response pattern,mapped Shandong code group,483,13.644067796610168,Retained in primary analysis,Excluded in response-quality sensitivity,Quality review or retest before provisionally low-burden routing
+all-zero response pattern,Overall,726,5.051840512142509,Retained in primary analysis,Captured within all-same sensitivity,Flag as low-symptom but quality-sensitive; do not assume validity without local QA
+all-zero response pattern,mapped Hunan code group,266,2.4559135813867603,Retained in primary analysis,Captured within all-same sensitivity,Flag as low-symptom but quality-sensitive; do not assume validity without local QA
+all-zero response pattern,mapped Shandong code group,460,12.994350282485875,Retained in primary analysis,Captured within all-same sensitivity,Flag as low-symptom but quality-sensitive; do not assume validity without local QA
+duplicate 90-item pattern,Overall,1203,8.37102498086424,Retained in primary analysis,Deduplicated by retaining first occurrence,Administrative audit; avoid treating duplicated patterns as independent evidence
+duplicate 90-item pattern,mapped Hunan code group,517,4.773335795402087,Retained in primary analysis,Deduplicated by retaining first occurrence,Administrative audit; avoid treating duplicated patterns as independent evidence
+duplicate 90-item pattern,mapped Shandong code group,686,19.37853107344633,Retained in primary analysis,Deduplicated by retaining first occurrence,Administrative audit; avoid treating duplicated patterns as independent evidence
+not flagged by available response-pattern checks,Overall,13167,91.62201656113005,Entered into 15-item triage or selective escalation,Reference group,Proceed through local triage workflow with human-review safeguards
+not flagged by available response-pattern checks,mapped Hunan code group,10313,95.21743144677315,Entered into 15-item triage or selective escalation,Reference group,Proceed through local triage workflow with human-review safeguards
+not flagged by available response-pattern checks,mapped Shandong code group,2854,80.62146892655367,Entered into 15-item triage or selective escalation,Reference group,Proceed through local triage workflow with human-review safeguards

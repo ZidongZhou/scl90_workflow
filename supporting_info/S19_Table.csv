@@ -1,0 +1,12 @@
+reporting_domain,transparency_item,manuscript_or_package_response
+Title/abstract,Identify prediction-like workflow and intended target,"Addressed in title/abstract as full-score rule approximation and triage workflow, not diagnosis."
+Background,Explain clinical/service context and intended use,Framed as service-capacity triage for an existing SCL-90 total-score rule.
+Data source,"Describe source, eligibility, and availability","Public Mendeley Data V1, DOI and license reported; raw item wording not redistributed."
+Outcome,Define target outcome and timing,Full-length SCL-90 total >=160; same item pool limitation explicitly stated.
+Predictors,Describe candidate predictors and preprocessing,S1-S90 numeric items; fixed archived 15-item operational example and comparators.
+Sample split,Describe development/validation approach,Metadata-supported mapped Hunan/Shandong location-code split plus reverse and CV checks.
+Model,Specify algorithms and hyperparameters,"Logistic models, ranking approaches, tree-based sensitivity, and raw-sum workflow documented in code."
+Performance,"Report discrimination, calibration/ranking, and uncertainty","ROC-AUC, PR-AUC, Brier/calibration, top-k capacity, bootstrap CIs, and nested checks."
+Fairness/heterogeneity,Evaluate subgroup or transportability diagnostics,Gender-code/location/quality-flag diagnostics reported without overinterpreting code meanings.
+Deployment,State intended and non-intended uses,"Deployment card specifies human review, response-quality safeguard, calibration, and crisis override requirements."
+Transparency,"Provide code, environment, and reproducibility route","S1 Code includes requirements, environment report, smoke tests, quick route, and full route."

@@ -1,0 +1,36 @@
+selection_stage,domain,item,rank_importance,item_count
+domain anchor,Somatization,S56,0.5391371493645243,15
+domain anchor,Obsessive-compulsive,S28,0.5507045211748075,15
+domain anchor,Interpersonal sensitivity,S69,0.5627955237750468,15
+domain anchor,Depression,S30,0.6097262327036803,15
+domain anchor,Anxiety,S57,0.5844686412776263,15
+domain anchor,Hostility,S11,0.5337598233820825,15
+domain anchor,Phobic anxiety,S50,0.548816033928141,15
+domain anchor,Paranoid ideation,S18,0.5306618987313986,15
+domain anchor,Psychoticism,S62,0.5408215659006438,15
+domain anchor,Additional items,S59,0.48874981237704773,15
+ranked fill,Depression,S31,0.6049200990470162,15
+ranked fill,Depression,S71,0.602062326404381,15
+ranked fill,Depression,S79,0.5867403343468731,15
+ranked fill,Depression,S26,0.5867225311766839,15
+ranked fill,Anxiety,S78,0.5603457251047504,15
+domain anchor,Somatization,S56,0.5391371493645243,20
+domain anchor,Obsessive-compulsive,S28,0.5507045211748075,20
+domain anchor,Interpersonal sensitivity,S69,0.5627955237750468,20
+domain anchor,Depression,S30,0.6097262327036803,20
+domain anchor,Anxiety,S57,0.5844686412776263,20
+domain anchor,Hostility,S11,0.5337598233820825,20
+domain anchor,Phobic anxiety,S50,0.548816033928141,20
+domain anchor,Paranoid ideation,S18,0.5306618987313986,20
+domain anchor,Psychoticism,S62,0.5408215659006438,20
+domain anchor,Additional items,S59,0.48874981237704773,20
+ranked fill,Depression,S31,0.6049200990470162,20
+ranked fill,Depression,S71,0.602062326404381,20
+ranked fill,Depression,S79,0.5867403343468731,20
+ranked fill,Depression,S26,0.5867225311766839,20
+ranked fill,Anxiety,S78,0.5603457251047504,20
+ranked fill,Interpersonal sensitivity,S34,0.549385591174735,20
+ranked fill,Anxiety,S2,0.5481918306187612,20
+ranked fill,Depression,S54,0.5464159657519548,20
+ranked fill,Anxiety,S80,0.5423926118423257,20
+ranked fill,Interpersonal sensitivity,S41,0.5423450139486645,20

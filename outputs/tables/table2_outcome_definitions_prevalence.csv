@@ -1,0 +1,16 @@
+outcome,definition,sample,positive_n,positive_percent
+label_ge160,SCL-90 total score >=160; item sum >=70,Overall,2908,20.235195880592862
+label_ge160,SCL-90 total score >=160; item sum >=70,Mapped Hunan code group,2207,20.376696519250302
+label_ge160,SCL-90 total score >=160; item sum >=70,Mapped Shandong code group,701,19.80225988700565
+label_gt160,SCL-90 total score >160; item sum >70,Overall,2852,19.84552223227333
+label_gt160,SCL-90 total score >160; item sum >70,Mapped Hunan code group,2164,19.979687932785524
+label_gt160,SCL-90 total score >160; item sum >70,Mapped Shandong code group,688,19.43502824858757
+label_top10_full_score,Top decile of full 90-item symptom burden,Overall,1470,10.228933268387726
+label_top10_full_score,Top decile of full 90-item symptom burden,Mapped Hunan code group,1107,10.220662912011818
+label_top10_full_score,Top decile of full 90-item symptom burden,Mapped Shandong code group,363,10.254237288135592
+label_ge200,SCL-90 total score >=200; high symptom-burden sensitivity analysis,Overall,1077,7.4942592721452925
+label_ge200,SCL-90 total score >=200; high symptom-burden sensitivity analysis,Mapped Hunan code group,801,7.395439017634567
+label_ge200,SCL-90 total score >=200; high symptom-burden sensitivity analysis,Mapped Shandong code group,276,7.796610169491526
+remaining_75_item_label_ge59,Remaining 75-item raw sum >=59 after excluding the 15-item operational set,Overall,2337,16.261916359334773
+remaining_75_item_label_ge59,Remaining 75-item raw sum >=59 after excluding the 15-item operational set,Mapped Hunan code group,1701,15.704921059920599
+remaining_75_item_label_ge59,Remaining 75-item raw sum >=59 after excluding the 15-item operational set,Mapped Shandong code group,636,17.966101694915253

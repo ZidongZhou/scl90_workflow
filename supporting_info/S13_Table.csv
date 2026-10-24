@@ -1,0 +1,65 @@
+method,item,domain,fold_selection_count
+Correlation ranking,S26,Depression,5
+Correlation ranking,S30,Depression,5
+Correlation ranking,S31,Depression,5
+Correlation ranking,S33,Anxiety,5
+Correlation ranking,S54,Depression,5
+Correlation ranking,S57,Anxiety,5
+Correlation ranking,S69,Interpersonal sensitivity,5
+Correlation ranking,S71,Depression,5
+Correlation ranking,S78,Anxiety,5
+Correlation ranking,S79,Depression,5
+Correlation ranking,S80,Anxiety,5
+Correlation ranking,S34,Interpersonal sensitivity,4
+Correlation ranking,S37,Interpersonal sensitivity,4
+Correlation ranking,S62,Psychoticism,4
+Correlation ranking,S56,Somatization,3
+Correlation ranking,S36,Interpersonal sensitivity,2
+Correlation ranking,S28,Obsessive-compulsive,1
+Correlation ranking,S50,Phobic anxiety,1
+Correlation ranking,S87,Psychoticism,1
+LASSO/L1 ranking,S10,Obsessive-compulsive,5
+LASSO/L1 ranking,S28,Obsessive-compulsive,5
+LASSO/L1 ranking,S30,Depression,5
+LASSO/L1 ranking,S41,Interpersonal sensitivity,5
+LASSO/L1 ranking,S46,Obsessive-compulsive,5
+LASSO/L1 ranking,S61,Interpersonal sensitivity,5
+LASSO/L1 ranking,S9,Obsessive-compulsive,5
+LASSO/L1 ranking,S2,Anxiety,4
+LASSO/L1 ranking,S34,Interpersonal sensitivity,4
+LASSO/L1 ranking,S51,Obsessive-compulsive,4
+LASSO/L1 ranking,S57,Anxiety,4
+LASSO/L1 ranking,S85,Psychoticism,4
+LASSO/L1 ranking,S55,Obsessive-compulsive,3
+LASSO/L1 ranking,S45,Obsessive-compulsive,2
+LASSO/L1 ranking,S68,Paranoid ideation,2
+LASSO/L1 ranking,S84,Psychoticism,2
+LASSO/L1 ranking,S18,Paranoid ideation,1
+LASSO/L1 ranking,S21,Interpersonal sensitivity,1
+LASSO/L1 ranking,S25,Phobic anxiety,1
+LASSO/L1 ranking,S26,Depression,1
+LASSO/L1 ranking,S31,Depression,1
+LASSO/L1 ranking,S40,Somatization,1
+LASSO/L1 ranking,S42,Somatization,1
+LASSO/L1 ranking,S44,Additional items,1
+LASSO/L1 ranking,S6,Interpersonal sensitivity,1
+LASSO/L1 ranking,S86,Anxiety,1
+LASSO/L1 ranking,S88,Psychoticism,1
+Mutual information ranking,S26,Depression,5
+Mutual information ranking,S28,Obsessive-compulsive,5
+Mutual information ranking,S30,Depression,5
+Mutual information ranking,S31,Depression,5
+Mutual information ranking,S34,Interpersonal sensitivity,5
+Mutual information ranking,S54,Depression,5
+Mutual information ranking,S57,Anxiety,5
+Mutual information ranking,S69,Interpersonal sensitivity,5
+Mutual information ranking,S71,Depression,5
+Mutual information ranking,S78,Anxiety,5
+Mutual information ranking,S79,Depression,5
+Mutual information ranking,S2,Anxiety,4
+Mutual information ranking,S41,Interpersonal sensitivity,4
+Mutual information ranking,S80,Anxiety,4
+Mutual information ranking,S33,Anxiety,3
+Mutual information ranking,S37,Interpersonal sensitivity,2
+Mutual information ranking,S62,Psychoticism,2
+Mutual information ranking,S36,Interpersonal sensitivity,1

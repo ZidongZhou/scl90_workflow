@@ -1,0 +1,30 @@
+# Raw participant-level data: download separately, never commit.
+/data_raw/
+/Data_collegestudent.csv
+**/Data_collegestudent.csv
+
+# Individual-level derivatives: do not publish.
+**/excluded_invalid_record.csv
+**/shandong_external_predictions_main_lasso15.csv
+**/*individual_level*.csv
+**/*participant_level*.csv
+
+# Local environments and generated scratch runs.
+.venv/
+__pycache__/
+.pytest_cache/
+outputs_final*/
+outputs_quick*/
+outputs_full*/
+outputs_smoke*/
+*.pyc
+.DS_Store
+
+# Additional caches and test artifacts
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local analysis runs
+outputs_run*/

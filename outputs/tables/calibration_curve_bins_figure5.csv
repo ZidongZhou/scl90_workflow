@@ -1,0 +1,17 @@
+model,mean_predicted_probability,observed_screen_positive_rate,n
+Original weighted model,0.00020948282144256288,0.0,531
+Original weighted model,0.0005299610985935689,0.0,178
+Original weighted model,0.0011267671151541448,0.0,176
+Original weighted model,0.0037944083098470052,0.0,177
+Original weighted model,0.021090133082270618,0.005649717514124294,177
+Original weighted model,0.15412935239928086,0.22598870056497175,177
+Original weighted model,0.5798524154374284,0.7627118644067796,177
+Original weighted model,0.9832358388706238,0.9887005649717514,177
+Slope+intercept recalibrated model,0.00011773823292557026,0.0,531
+Slope+intercept recalibrated model,0.0003391738029572639,0.0,178
+Slope+intercept recalibrated model,0.000804284132792077,0.0,176
+Slope+intercept recalibrated model,0.0032444702508517753,0.0,177
+Slope+intercept recalibrated model,0.023243518090922483,0.005649717514124294,177
+Slope+intercept recalibrated model,0.20939107391936532,0.22598870056497175,177
+Slope+intercept recalibrated model,0.7026035373904074,0.7627118644067796,177
+Slope+intercept recalibrated model,0.9938787452271073,0.9887005649717514,177

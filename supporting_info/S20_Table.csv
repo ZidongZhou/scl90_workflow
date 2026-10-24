@@ -1,0 +1,9 @@
+card_item,statement
+Intended use,First-stage low-burden approximation of an existing full-form SCL-90 total-score rule for service-capacity triage.
+Not intended for,"Clinical diagnosis, crisis detection, self-harm risk prediction, treatment-need determination, or automated denial/exclusion from support."
+Minimum safeguards,"Human review, automatic full-form escalation for uncertain cases, response-quality review pathway, local calibration/audit, subgroup monitoring, and data-security controls."
+Required human override,"Crisis signal, direct help-seeking, counselor/staff concern, prior service contact, or local safeguarding policy overrides model rank at any stage."
+Known failure modes,"All-zero/all-same responses, duplicated patterns, unverified location/gender code meanings, distribution shift, no response-time or attention-check metadata."
+Probability interpretation,Weighted logistic scores are ranking scores; individual probability thresholds require local recalibration before operational use.
+Order-assumed domain-balanced caveat,Order-assumed domain-balanced analysis assumes conventional SCL-90 item order because item wording was not redistributed in the public dataset.
+Evidence boundary,"No independent clinical criterion, diagnosis, crisis outcome, help-seeking outcome, or longitudinal service outcome was evaluated."

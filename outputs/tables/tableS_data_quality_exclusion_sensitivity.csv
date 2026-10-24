@@ -1,0 +1,5 @@
+analysis,shandong_n,estimated_shandong_screen_positive_n,estimated_shandong_screen_positive_prevalence_percent,roc_auc,pr_auc,top10_recall_percent,top10_screen_positive_rate_percent,theoretical_max_top10_recall_percent,note
+Main analytic sample,3540,701,19.8,0.988,0.949,49.8,98.6,50.5,Submitted SI-ready summary; fixed 15-item operational example refit under the stated response-quality rule
+Exclude all-same response patterns,3057,678,22.2,0.986,0.949,44.7,99.0,45.1,Submitted SI-ready summary; fixed 15-item operational example refit under the stated response-quality rule
+Deduplicate 90-item response patterns: retain first occurrence,2928,680,23.2,0.985,0.949,42.6,99.0,43.1,Submitted SI-ready summary; fixed 15-item operational example refit under the stated response-quality rule
+Exclude all-same and deduplicate 90-item patterns,2925,678,23.2,0.985,0.949,42.6,99.0,43.1,Submitted SI-ready summary; fixed 15-item operational example refit under the stated response-quality rule

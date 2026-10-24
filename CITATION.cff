@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and the source dataset when using this software."
+title: "SCL-90 selective-escalation workflow"
+authors:
+  - family-names: Zhou
+    given-names: Zidong
+  - family-names: Wang
+    given-names: Xuanhe
+  - family-names: Meng
+    given-names: Yue
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/ZidongZhou/scl90_workflow"
+keywords:
+  - SCL-90
+  - university students
+  - screening approximation
+  - follow-up triage
+references:
+  - type: data
+    title: "Large sample dataset of Chinese college student (SCL-90+mindfulness)"
+    authors:
+      - family-names: Wang
+        given-names: Shoushi
+    doi: "10.17632/btzgmr2rt2.1"

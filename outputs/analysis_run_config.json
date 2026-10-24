@@ -1,0 +1,26 @@
+{
+  "data_file_name": "Data_collegestudent.csv",
+  "data_source": "Mendeley Data DOI: 10.17632/btzgmr2rt2.1; place Data_collegestudent.csv locally and pass its path with --data",
+  "random_repeats": 1000,
+  "random_baseline_source": "archived_1000_each_size",
+  "bootstrap_ci": 500,
+  "quick_mode": false,
+  "skip_nested_cv": false,
+  "random_state": 20260610,
+  "operational_lasso_order": "code/static/lasso_rank_hunan.csv",
+  "archived_simulation_note": "By default, run_all.py and analysis.py use archived random item-set and selection-stability results from code/static. Use --recompute-random-baseline to recompute random item-set distributions; selection-stability results remain archived in this release.",
+  "package_version": "1.0.0",
+  "tree_based_sensitivity_default": "not run by run_all.py unless --include-tree is supplied",
+  "include_tree_requested": false,
+  "tree_based_sensitivity_source": "archived_packaged_output",
+  "figure_export_formats": [
+    "600-dpi LZW TIFF for submission",
+    "PNG preview",
+    "editable-text SVG",
+    "editable-text PDF"
+  ],
+  "wrapper_completed": true,
+  "run_mode": "full",
+  "full_nested_cv_run": true,
+  "bootstrap_ci_replicates": 500
+}
